@@ -1,0 +1,9 @@
+C:\Users\hasan\Desktop\Git\Анализ текста\Анализ текста\bin\Release\Анализ текста.exe.config
+C:\Users\hasan\Desktop\Git\Анализ текста\Анализ текста\bin\Release\Анализ текста.exe
+C:\Users\hasan\Desktop\Git\Анализ текста\Анализ текста\bin\Release\Анализ текста.pdb
+C:\Users\hasan\Desktop\Git\Анализ текста\Анализ текста\obj\Release\Анализ_текста.Form1.resources
+C:\Users\hasan\Desktop\Git\Анализ текста\Анализ текста\obj\Release\Анализ_текста.Properties.Resources.resources
+C:\Users\hasan\Desktop\Git\Анализ текста\Анализ текста\obj\Release\Анализ текста.csproj.GenerateResource.cache
+C:\Users\hasan\Desktop\Git\Анализ текста\Анализ текста\obj\Release\Анализ текста.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\Git\Анализ текста\Анализ текста\obj\Release\Анализ текста.exe
+C:\Users\hasan\Desktop\Git\Анализ текста\Анализ текста\obj\Release\Анализ текста.pdb
